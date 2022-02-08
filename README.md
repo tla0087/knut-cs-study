@@ -7,15 +7,11 @@
 # 폴더
 
 - 운영체제
-  `os/본인 git username`
-
+  - `os/본인 git username`
 - 데이터베이스
-
-  `db/본인의 git username`
-
+  - `db/본인의 git username`
 - 네트워크 폴더
-
-  `network/본인의 git username`
+  - `network/본인의 git username`
 
 # 교재
 
@@ -29,4 +25,3 @@
 - 매주 한 개의 챕터 선정 -> 하루에 소분류 하나씩
 - 스스로 공부하고 이해한 내용 각자 폴더에 업로드
 - 화상(Google Meet)으로 상호 질문 및 점검, 틀린 부분 보완
-
