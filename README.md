@@ -14,7 +14,7 @@
 
 - 운영체제
   - `os/본인 git username`
-- 네트워크 폴더
+- 네트워크
   - `network/본인의 git username`
 
 <br>
