@@ -21,9 +21,11 @@
 
 <br>
 
-# 📚 교재
+# 📚 교재 및 추천강의
 
 - 운영체제 : [쉽게 배우는 운영체제 - 한빛아카데미 (조성호 지음)](http://www.yes24.com/Product/Goods/62054527)
+  - [KOCW - 양희재 교수님](http://www.kocw.net/home/search/kemView.do?kemId=978503)
+  - [KOCW - 반효경 교수님](http://www.kocw.net/home/search/kemView.do?kemId=1046323)
 - 데이터베이스 : 미정
 - 네트워크 : 미정
 
