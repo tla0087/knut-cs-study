@@ -42,7 +42,7 @@
   - `jswith` branch에 `os/jswith/1-3.md`에 공부한 내용을 작성한다.
   - `os: 1-3. 운영체제의 구조` commit 메시지를 작성한다.
   - 원격 저장소에 push한다.
-  - Pull Request를 보낸다.
+  - `master` branch로 Pull Request를 보낸다.
 
 <br>
 
