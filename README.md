@@ -36,7 +36,7 @@
 <br>
 
 # 📝commit 방법
-
+- 우선, 해당 repository를 fork한다.
 - 파일명 작성 방법 및 파일 추가 방법
   - `jswith`가 `1-3. 운영체제의 구조`를 공부했다고 가정하면,
   - `jswith` branch로 이동한다.
