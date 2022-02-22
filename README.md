@@ -51,7 +51,7 @@
 
 | 챕터                                        | 일시 | 저장소 |
 | ------------------------------------------- | :--: | ------ |
-| 1-3. 운영체제의 구조                        |      |        |
+| 1-3. 운영체제의 구조                        |22.02.21.|[jswith](https://github.com/jswith/knut-cs-study/blob/master/os/jswith/1-3.md)<br>[Angel-Suyeon](https://github.com/jswith/knut-cs-study/blob/master/os/Angel-Suyeon/1-3.md)        |
 | 2-1. 컴퓨터의 기본 구성                     |      |        |
 | 2-2. CPU와 메모리                           |      |        |
 | 2-3. 컴퓨터 성능 향상 기술                  |      |        |
